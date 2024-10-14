@@ -1,0 +1,41 @@
+Algoritmo DIA_DE_LA_SEMANA
+	Escribir "introduce un numero del 1-7"
+	Leer x
+	Si x=1 Entonces
+		Escribir "LUNES"
+	SiNo
+		
+	Fin Si
+	Si X=2 Entonces
+		Escribir "MARTES"
+	SiNo
+		
+	Fin Si
+	Si X=3 Entonces
+		Escribir "MIERCOLES"
+	SiNo
+		
+	Fin Si
+	Si X=4 Entonces
+		Escribir "JUEVEZ"
+	SiNo
+		
+	Fin Si
+	Si X=5 Entonces
+		Escribir "VIERNES"
+	SiNo
+		
+	Fin Si
+	Si X=6 Entonces
+		Escribir "SABADO"
+	SiNo
+		
+	Fin Si
+	Si X=7 Entonces
+		Escribir "DOMINGO"
+	SiNo
+		
+	Fin Si
+	
+	
+FinAlgoritmo
